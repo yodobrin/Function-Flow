@@ -1,0 +1,4 @@
+azure-functions
+adal
+msrestazure
+azure.mgmt.media
